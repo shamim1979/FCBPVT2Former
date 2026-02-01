@@ -117,3 +117,4 @@ idea/**/dbnavigator.xml
 ### Gradle and Maven with auto-import (for build tools)
 idea/**/gradle.xml
 idea/**/libraries/*
+/.idea/
