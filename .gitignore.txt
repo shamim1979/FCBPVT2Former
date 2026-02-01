@@ -1,6 +1,6 @@
 ### data and saved model ignore
-CVC-ClinicDB/
-Kvasir-SEG/
+/CVC-ClinicDB/
+/Kvasir-SEG/
 pvt_v2_b3.pth
 
 # Byte-compiled / optimized / DLL files
